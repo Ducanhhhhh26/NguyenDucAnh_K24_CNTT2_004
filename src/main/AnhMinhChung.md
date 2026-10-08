@@ -14,3 +14,5 @@ danh@Server:~$
 
 **trạng thái Nginx và Git config**
 ![img_3.png](img_3.png)
+
+
