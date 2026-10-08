@@ -17,8 +17,8 @@
 - Web root: `/var/www/NguyenDucAnh_K24_CNTT2_004/src`
 - File cấu hình Nginx: `/etc/nginx/sites-available/nguyenducanhk24cntt2.conf`
 - Cổng Nginx: `8084`
-- IP máy chủ: `YOUR_SERVER_IP`
-- URL truy cập: `http://YOUR_SERVER_IP:8084`
+- IP máy chủ: `14.224.184.165`
+- URL truy cập: `http://14.224.184.165:8084`
 
 ## Cấu trúc thư mục
 
@@ -112,7 +112,7 @@ hostname -I
 Truy cập từ trình duyệt:
 
 ```text
-http://YOUR_SERVER_IP:8084
+http://14.224.184.165:8084
 ```
 
 ## Minh chứng cần nộp
